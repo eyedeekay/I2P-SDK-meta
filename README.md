@@ -52,6 +52,7 @@ Important information that already exists
  * [I2P Application Development Guidelines](https://geti2p.net/en/get-involved/develop/applications)
  * [SAM v3.x API](https://geti2p.net/en/docs/api/samv3)
  * [SAM Tutorial](https://geti2p.net/en/blog/post/2019/06/23/sam-library-basics)
+ * [Def-Con Workshop Handout](https://github.com/eyedeekay/defcon)
 
 Important software for an I2P SDK
 ---------------------------------
